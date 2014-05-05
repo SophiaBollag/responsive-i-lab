@@ -2,29 +2,29 @@
 
 
 #container{
-	width: 900px;
+	max-width: 900px;
 	background-color: #F5EED2;
 	margin: 0 auto;
 }
 
 header{
-	width:900px;
+	width:100%;
 	height: 300px;
 	background-color: #D0DCD0;
 }
 
 #menu{
 	float:left;
-	width:220px;
-	padding: 20px;
-	margin: 20px;
+	width:24.444444444444%;
+	padding: 2.222222222222%;
+	margin: 2.222222222222%;
 	background-color: #8EBBB4;
 }
 
 #main-bar{
 	float:right;
-	width:560px;
-	padding:20px;
+	width:62.2222222222%;
+	padding:2.222222222222%;
 }
 
 .story-image{
@@ -36,13 +36,13 @@ header{
 }
 
 #related-container{
-	width:900px;
+	width:100%;
 	background-color: #F5EED2;
 	float:left;
 }
 
 .related-story{
-	width:260px;
+	width:28.88888888%;
 	height:260px;
 	background-color: #589494;
 	float:left;
